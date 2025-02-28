@@ -1,0 +1,22 @@
+{
+  "name": "automattoo",
+  "version": "1.0.0",
+  "description": "Bot para o Whatsapp",
+  "homepage": "https://github.com/ifLauraAlmeida/Automattoo#readme",
+  "bugs": {
+    "url": "https://github.com/ifLauraAlmeida/Automattoo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifLauraAlmeida/Automattoo.git"
+  },
+  "license": "ISC",
+  "author": "oddie",
+  "type": "commonjs",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js",
+  "test": "echo \"No tests defined\" && exit 0"
+}
+
+  }
